@@ -4,7 +4,7 @@ export PATH
 
 
 install_path=/fs/
-package_download_url=
+package_download_url=https://raw.githubusercontent.com/ugukkylbklaom/Vultr-SS-Firewall/master/finalspeed_server.zip
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
