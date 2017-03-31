@@ -4,7 +4,7 @@ export PATH
 
 
 install_path=/fs/
-package_download_url=未定
+package_download_url=
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
